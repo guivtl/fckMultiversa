@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+lxml
+google-generativeai
+python-dotenv
+colorama
+webdriver-manager 
